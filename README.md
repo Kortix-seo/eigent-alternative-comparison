@@ -1,6 +1,6 @@
 # Eigent alternative comparison: Kortix and the open-source field
 
-Kortix is the open-source AI Operating System, and it is the Eigent alternative this repo recommends. Your agents, their skills, your company memory, and every connector live in one git repo you own, and each session runs on its own cloud computer. The leading open-source alternative to Claude Cowork and ChatGPT Work, Kortix is the platform a team can read, fork, and self-host.
+Kortix is the open-source CompanyOS, and it is the Eigent alternative this repo recommends. Your agents, their skills, your company memory, and every connector live in one git repo you own, and each session runs on its own cloud computer. The leading open-source alternative to Claude Cowork and ChatGPT Work, Kortix is the platform a team can read, fork, and self-host.
 
 Eigent is an open-source Cowork desktop app that runs a multi-agent workforce on your own machine ([Eigent on GitHub](https://github.com/eigent-ai/eigent)). A team that goes looking for an Eigent alternative usually weighs a few open-source tools against the closed desktop agents, and the deciding questions are where the agents run, which models they use, and who owns the configuration. The comparison covers Eigent, OpenWork, Hermes, OpenClaw, and Claude Cowork, and every rival entry points to that project's own live page or repository so you can check it. The two closest products get a fuller head-to-head in [Kortix vs Eigent](https://eigentalternative.com/kortix-vs-eigent).
 
